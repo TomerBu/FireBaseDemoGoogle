@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FireBaseDemoGoogle</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_sign_in">SignInActivity</string>
+    <string name="profile_image_view">Profile Image</string>
+    <string name="title_activity_face_book_login">FaceBookLoginActivity</string>
+</resources>
